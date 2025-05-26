@@ -1,5 +1,0 @@
-flask
-torch
-sentence-transformers
-scikit-learn
-joblib
